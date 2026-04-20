@@ -22,7 +22,7 @@ EN + 日本語
 
 - **X**: [@michielinksee](https://x.com/michielinksee)
 - **Company**: [Synapse Arrows](https://synapsearrows.com/) 
-- **Email**: `contact@synapse-arrows.com
+- **Email**: - **Email**: `contact [at] synapse-arrows.com`
 
 ### 📍 Currently
 
