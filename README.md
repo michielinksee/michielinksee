@@ -21,7 +21,7 @@ EN + 日本語
 ### 🧭 Where to find me
 
 - **X**: [@michielinksee](https://x.com/michielinksee)
-- **Company**: [Synapse Arrows](https://synapsearrows.com/) (website coming)
+- **Company**: [Synapse Arrows](https://synapsearrows.com/) 
 - **Email**: `michie [at] synapse-arrows.com`
 
 ### 📍 Currently
