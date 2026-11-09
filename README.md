@@ -2,6 +2,8 @@
 
 Founder of **Synapse Arrows** (Singapore). Building agent-economy infrastructure — tools and data layers that make AI agents actually useful.
 
+Currently focused on **[KanseiLINK](https://kansei-link.com/)** — a third-party check of how reliably AI agents can discover, connect to and complete real tasks on SaaS and MCP servers.
+
 EN + 日本語
 
 ---
